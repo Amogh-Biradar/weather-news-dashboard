@@ -4,7 +4,7 @@ A simple terminal dashboard that shows weather and Hacker News stories.
 
 ## About
 
-I built this app to check weather and read news right from the terminal without opening a browser. It uses Open-Meteo for weather (free, no API key) and Hacker News API for news.
+I built this app to check weather and read news right from the terminal without opening a browser. It uses Open-Meteo for weather (free, no API key) and Hacker News API for news. This is the first project I've made using a custom agentic workflow.
 
 ## Quick Start
 
