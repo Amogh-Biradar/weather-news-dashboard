@@ -34,7 +34,7 @@ python dashboard.py
 
 ## How It Was Built
 
-I used the OpenClaw two-agent system to build this:
+I used a OpenClaw two-agent system to build this:
 
 - **Jarvis** (Qwen 3.5-9B local): planned everything, decided on the architecture, orchestrated the work
 - **FRIDAY** (GPT-5.5 via OpenAI): wrote all the actual code, handled implementation, debugging
