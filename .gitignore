@@ -1,0 +1,51 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Environments
+venv/
+env/
+.venv/
+.env
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+*.egg-info/
+build/
+
+# Logs and runtime files
+*.log
+news_cache.json
+weather_cache.json
+today_summary.md
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OpenClaw workspace files
+openclaw.json
+openclaw.json.bak*
+gateway-supervisor-restart-handoff.json
+agents/
+cache/
+completions/
+devices/
+discord/
+identity/
+logs/
+memory/
+tools/
+
+# Environment variables
+.env.local
